@@ -33,3 +33,4 @@ describe("calculateNumber", function() {
 	    expect(calculateNumber("DIVIDE", 4, 0)).to.equal("Error");
 	});
     });
+});
